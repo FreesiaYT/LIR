@@ -1,4 +1,4 @@
-This code version is just for OpenReview blind review: Efficient Degradation Removal for Lightweight Image Restoration.
+This code version is just for OpenReview blind review: LIR:Efficient Degradation Removal for Lightweight Image Restoration.
 
 The full code and detailed usage will immediately be released after review.
 
