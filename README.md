@@ -2,4 +2,4 @@ This code version is just for OpenReview blind review: Efficient Degradation Rem
 
 The full code and detailed usage will immediately be released after review.
 
-Here we released the training details (options folder) and detailed architecures for LIR (archs folder).
+Here we released the training details (options folder) , detailed architecures for LIR (archs folder), few visual results for comparison (visual results folder).
