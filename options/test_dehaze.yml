@@ -1,4 +1,4 @@
-name: test_LIRDerain
+name: test_LIRDehaze
 model_type: Origin
 crop_border: ~
 num_gpu: 1
