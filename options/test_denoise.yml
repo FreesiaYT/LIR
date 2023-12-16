@@ -1,4 +1,4 @@
-name: test_NAFNetDerain
+name: test_LIRDenoise
 model_type: Origin
 crop_border: ~
 num_gpu: 1
