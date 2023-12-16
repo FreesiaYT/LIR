@@ -1,6 +1,6 @@
 # TODO
 # general settings
-name: train_LIRDeblur
+name: train_LIRDerain
 model_type: Origin
 manual_seed: 10
 
